@@ -8,7 +8,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-#include "kazhal.h"
+#include "kinzhal.h"
 
 int set_interface_attribs(int fd, int speed, int parity) {
   struct termios tty;

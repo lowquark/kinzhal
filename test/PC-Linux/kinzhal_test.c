@@ -1,5 +1,5 @@
 
-#include "kazhal.c"
+#include "kinzhal.c"
 
 #include <check.h>
 #include <stdlib.h>

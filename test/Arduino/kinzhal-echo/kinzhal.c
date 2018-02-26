@@ -1,5 +1,5 @@
 
-#include "kazhal.h"
+#include "kinzhal.h"
 
 #include <string.h>
 

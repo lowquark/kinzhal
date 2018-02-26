@@ -1,5 +1,5 @@
-#ifndef KAZHAL_H
-#define KAZHAL_H
+#ifndef KINZHAL_H
+#define KINZHAL_H
 
 
 /* begin configuration */

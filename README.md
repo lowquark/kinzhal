@@ -1,4 +1,4 @@
 
-Kazhal - RPC for embedded devices
-=================================
+Kinzhal - RPC for embedded devices
+==================================
 
